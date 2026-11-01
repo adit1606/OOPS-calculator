@@ -1,0 +1,8 @@
+calculator
+*.exe
+*.o
+*.dSYM/
+x64/
+.vs/
+*.vcxproj.user
+.DS_Store
